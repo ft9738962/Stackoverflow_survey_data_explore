@@ -11,18 +11,24 @@ The purpose of the data study is to answer questions for people who want to beco
 - Does gender ratio improve more balanced in IT industry?
 - What is the hottest occupation as a developer?
 - What is the hottest language or potential language for a developer?
+
 ---
 # 2. File Description
-Data_Explore.ipynb: include the data exploration process with comments and explanation
-fig: Folder to store figures created by Matplotlib in the data exploration
+- Data_Explore.ipynb: include the data exploration process with comments and explanation
+- fig: Folder to store figures created by Matplotlib in the data exploration
 
 A blog for this project for public has been compiled on the **[Media(link)]**
+
 ---
 # 3. How to Interact with My project
-This is a personal project for Udacity DSND Term2. No interaction is needed.
+This is a personal project for Udacity DSND Term2. No contribution is needed.
+
 ---
 # 4. Licensing
-There is no license to any output of the data exploration and figure files. It's welcome to quote the conclusion.
+There is no license to any output of the data exploration and figure files.
+
+It's welcome to quote the conclusion and work on my project for you personal interest.
+
 ---
 # 5. Authors
 Max Qiu
