@@ -1,12 +1,12 @@
 # Table of Content
-1. [Installation](#jump1)
-2. [Motivation](#jump2)
-3. [File Description](#jump3)
-4. [How to Interact with My project](#jump4)
-5. [Licensing](#jump5)
-6. [Authors](#jump6)
+1. Installation
+2. Motivation
+3. File Description
+4. How to Interact with My project
+5. Licensing
+6. Authors
 
-# <span id='jump1'>1. Installation</span>
+# 1. Installation
 The jupyter notebook is wriiten under following environment:
 - Python 3.6
 - Numpy 1.14.3
