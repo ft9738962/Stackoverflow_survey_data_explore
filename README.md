@@ -1,4 +1,23 @@
-# 1. Motivation
+# Table of Content
+1. [Installation](#jump1)
+2. [Motivation](#jump2)
+3. [File Description](#jump3)
+4. [How to Interact with My project](#jump4)
+5. [Licensing](#jump5)
+6. [Authors](#jump6)
+
+# <span id='jump1'>1. Installation</span>
+The jupyter notebook is wriiten under following environment:
+- Python 3.6
+- Numpy 1.14.3
+- Pandas 0.23.0
+- adjustText 0.7.3
+- matplotlib 2.2.2
+- Seaborn 0.8.1
+
+The adjustText can be installed via [here](https://github.com/Phlya/adjustText)
+
+# 2. <span id='jump2'>Motivation</span>
 This is a project of my Udacity DSND Term2
 
 The project is to use any data to answer some questions raised by myself which has business
@@ -13,22 +32,22 @@ The purpose of the data study is to answer questions for people who want to beco
 - What is the hottest language or potential language for a developer?
 
 ---
-# 2. File Description
+# 3. <span id='jump3'>File Description</span>
 - Data_Explore.ipynb: include the data exploration process with comments and explanation
 - fig: Folder to store figures created by Matplotlib in the data exploration
 
-A blog for this project for public has been compiled on the **[Media(link)]**
+A blog for this project for public has been compiled on the **[Medium](https://medium.com/@lemonade475/5-things-you-should-know-to-break-into-developer-field-89445e4df20b)**
 
 ---
-# 3. How to Interact with My project
+# 4. <span id='jump4'>How to Interact with My project</span>
 This is a personal project for Udacity DSND Term2. No contribution is needed.
 
 ---
-# 4. Licensing
+# 5. <span id='jump5'>Licensing</span>
 There is no license to any output of the data exploration and figure files.
 
 It's welcome to quote the conclusion and work on my project for you personal interest.
 
 ---
-# 5. Authors
-Max Qiu
+# 6. <span id='jump6'>Authors</span>
+[Max Qiu](https://github.com/ft9738962)
